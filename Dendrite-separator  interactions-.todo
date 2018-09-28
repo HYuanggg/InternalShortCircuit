@@ -1,0 +1,18 @@
+2015
+1. introduction
+    - 枝晶形成分四个阶段：无、隔膜边缘、隔膜内、穿透隔膜
+    - 用石墨代替锂作为阳极 --> 抑制锂枝晶生长，但是在大放电率时仍然生长
+    - 商用隔膜：25um厚，20~80%孔，0.1~2.2um孔
+    - 研究隔膜孔的尺寸对枝晶形态的影响 @critical
+2. theoretical framework
+3. microstructure representation and numerical setup
+4. results and discussions
+    - 电流密度影响锂枝晶的生成, Fig. 5
+    - 电流密度和隔膜孔大小对锂枝晶产生的影响
+5. summary and conclusions
+    - 枝晶引起焦耳热，可能造成隔膜融解，SEI膜分解，电解质不稳定
+
+
+疑问：
+      P913，右栏，Par3
+    - selective phase transformation reactions?impermeable ceramic nonporous layers?

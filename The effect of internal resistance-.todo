@@ -1,0 +1,17 @@
+2008
+1. introduction
+    - 通过改变内阻，恒流，来改变电压梯度(dV/dx)
+2. experiments
+3. results and discussion
+    3.1 estimate of sands time
+    3.2 the relationship of voltage gradient and current rate
+        - 温度越低（阻抗越大），电压梯度越大，枝晶形成越慢
+4. conclusions
+
+
+
+疑问：
+    ☐ 1. 中讨论枝晶生长速度影响因素的时候说的很含糊，电流倍率？温度梯度？电压梯度？
+    ☐ 3.1.1 中解释内阻的定义，阻抗弧？不同频率阻抗？
+      https://www.researchgate.net/publication/244688312_A_Method_to_Separate_Process_Contributions_in_Impedance_Spectra_by_Variation_of_Test_Conditions/figures?lo=1
+    ☐ 3.2.3 固化理论？planar area？有边界的区域？Fig. 5
