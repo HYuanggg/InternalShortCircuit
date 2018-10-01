@@ -1,5 +1,7 @@
 1 introduction
+    - 枝晶带来安全问题和库伦效率问题【11-13】
 2 growth mechanism
+    - 电流密度和温度对其影响大（大，低）
     2.1 model od dendrite growth
     2.2 experimental research
 3 suppression method
@@ -10,3 +12,8 @@
         3.2.1 noval seperator
         3.2.2 3D structure anode
 4 conclusions and outlooks
+
+
+
+文献抽取：
+    【36】 锂沉积标准、模型 --> 形态控制是解决之道
